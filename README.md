@@ -1,5 +1,9 @@
 # The World in One Image — Tuesday 17 November 2026
 
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/labixiaoge/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/labixiaoge/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 [![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261117)
 [![competition](https://img.shields.io/badge/competition-news--image--20261117-green)](https://make.fun/bounty/news-image-20261117)
 
@@ -55,3 +59,7 @@ deterministic: running it twice produces byte-identical output.
 - `main.ts` — the entry program (copies `entry.png` to the output dir)
 - `scripts/draw.py` — the PIL program that draws `entry.png`
 - `package.json`, `LICENSE` (MIT)
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=j11gmnzr&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
